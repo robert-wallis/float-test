@@ -19,5 +19,5 @@ result 1094621.875000
 
 real	0m3.362s
 user	0m2.910s
-sys	0m0.440s
+sys   0m0.440s
 ```
